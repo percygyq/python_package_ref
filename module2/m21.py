@@ -13,12 +13,12 @@ __author__ = 'junqiangshen'
 
 def func1():
     m11.func1()
-    print 'm21 func1'
+    print( 'm21 func1')
 
 
 def func2():
     m12.func2()
-    print 'm21 func2'
+    print( 'm21 func2')
 
 
 if __name__ == '__main__':

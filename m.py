@@ -7,12 +7,12 @@ __author__ = 'junqiangshen'
 
 def func1():
     m11.func1()
-    print 'm func1'
+    print( 'm func1')
 
 
 def func2():
     m12.func2()
-    print 'm func2'
+    print( 'm func2')
 
 if __name__ == '__main__':
     func1()
